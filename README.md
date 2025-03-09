@@ -1,26 +1,29 @@
 
 👋 Hi, I’m Monish Reddy (@MonishReddyDev)
 
-Welcome to my GitHub profile! I'm a passionate Backend Developer with a focus on building scalable and efficient systems.
+Welcome to My GitHub Profile! 👋
 
-👀 I’m Interested In:
+I’m a Backend Developer with 4+ years of experience in building scalable, high-performance backend systems. My expertise lies in Node.js, TypeScript, Express.js, PostgreSQL, MongoDB, AWS, and Microservices Architecture. I specialize in API development, cloud computing, database optimization, and backend security.
 
-🚀 Backend Development: Crafting RESTful APIs, optimizing databases, and deploying scalable architectures.
-☁️ Cloud Computing: Leveraging AWS services for modern application development.
-🤖 Tech Exploration: Constantly learning new tools, frameworks, and technologies to stay ahead.
-
-🌱 I’m Currently Learning:
-
-🖥️ AWS Cloud developer Certification: Expanding my knowledge of cloud services.
-⚙️ Advanced Backend Skills: Exploring caching (Redis), microservices, and CI/CD pipelines.
-🧩 Open Source Contribution: Collaborating with the developer community.
+🔍 Areas of Interest:
+Backend Development: Designing and optimizing RESTful & GraphQL APIs, implementing event-driven architectures, and ensuring scalability & performance.
+Cloud Computing: Leveraging AWS services (Lambda, S3, RDS, DynamoDB, SQS, EventBridge) for modern cloud-native applications.
+Distributed Systems & Microservices: Implementing RabbitMQ, Redis caching, and service-oriented architectures for robust and scalable applications.
 
 
-💞️ I’m Looking to Collaborate On:
+📚 Currently Learning & Enhancing:
+AWS Cloud Developer Certification: Strengthening expertise in cloud deployments & serverless architectures.
+Advanced Backend Engineering: Enhancing skills in caching strategies (Redis, CDN), message queues (Kafka, RabbitMQ), and CI/CD pipelines.
+Open Source Contributions: Actively contributing to backend and cloud-related projects to collaborate with the developer community.
 
-🔧 Backend Projects: APIs, server-side applications, and database design.
-🌐 Open Source Contributions: Especially in backend-related projects and cloud solutions.
-💡 Innovative Ideas: Let’s brainstorm and build something impactful together!
+
+🤝 Open to Collaborations On:
+Backend Projects: API development, database design, and scalable architectures.
+Open Source Contributions: Contributing to backend-focused and cloud-native projects.
+Innovative Ideas: Brainstorming and building impactful tech solutions.
+
+
+🚀 Always eager to learn, collaborate, and create efficient backend solutions!
 
 📫 How to Reach Me:
 
