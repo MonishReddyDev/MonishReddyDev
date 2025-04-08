@@ -1,26 +1,32 @@
 
 👋 Hi, I’m Monish Reddy (@MonishReddyDev)
-
 Welcome to My GitHub Profile! 👋
 
-I’m a Backend Developer with 4+ years of experience in building scalable, high-performance backend systems. My expertise lies in Node.js, TypeScript, Express.js, PostgreSQL, MongoDB, AWS, and Microservices Architecture. I specialize in API development, cloud computing, database optimization, and backend security.
+I’m a Backend Developer with 4+ years of experience building robust, scalable systems using Node.js and Python. My expertise spans API development, microservices, cloud computing, and backend security. I’ve worked across fintech, telecom, and logistics domains, delivering production-ready services with a strong focus on performance and reliability.
+
 
 🔍 Areas of Interest:
-Backend Development: Designing and optimizing RESTful & GraphQL APIs, implementing event-driven architectures, and ensuring scalability & performance.
-Cloud Computing: Leveraging AWS services (Lambda, S3, RDS, DynamoDB, SQS, EventBridge) for modern cloud-native applications.
-Distributed Systems & Microservices: Implementing RabbitMQ, Redis caching, and service-oriented architectures for robust and scalable applications.
+Backend Development
+Designing and optimizing RESTful APIs with Node.js (Express.js) and Python (Flask, Django), implementing event-driven systems, and ensuring performance under scale.
+
+Cloud & DevOps
+Deploying cloud-native applications using AWS services like Lambda, S3, RDS, DynamoDB, EventBridge, and ECS. Familiar with Docker and CI/CD pipelines for automated deployments.
+
+Distributed Systems & Microservices
+Building microservices using Node.js, Flask, and Django, with integrations like RabbitMQ, Redis, and asynchronous job queues for resilient architectures.
 
 
 📚 Currently Learning & Enhancing:
-AWS Cloud Developer Certification: Strengthening expertise in cloud deployments & serverless architectures.
-Advanced Backend Engineering: Enhancing skills in caching strategies (Redis, CDN), message queues (Kafka, RabbitMQ), and CI/CD pipelines.
-Open Source Contributions: Actively contributing to backend and cloud-related projects to collaborate with the developer community.
+AWS Developer Associate Certification – Deepening serverless deployment and monitoring practices
+Advanced Backend Engineering – Expanding into caching (Redis, CDN), message queues (Kafka, RabbitMQ), and API versioning
+Python Service Optimization – Improving async performance and database interaction patterns
+Open Source Contributions – Actively engaging in backend + cloud projects and open collaboration
 
 
 🤝 Open to Collaborations On:
-Backend Projects: API development, database design, and scalable architectures.
-Open Source Contributions: Contributing to backend-focused and cloud-native projects.
-Innovative Ideas: Brainstorming and building impactful tech solutions.
+API & Microservice Development – With Python or Node.js
+Cloud-native Backends – Serverless, containerized apps using AWS
+Open Source Projects – Especially in backend tooling, DevOps automation, and infrastructure APIs
 
 
 🚀 Always eager to learn, collaborate, and create efficient backend solutions!
@@ -29,7 +35,7 @@ Innovative Ideas: Brainstorming and building impactful tech solutions.
 
 📧 Email: monishreddy900@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+💼 LinkedIn: https://www.linkedin.com/in/monish-reddy-bonthu/
 
 😄 Pronouns:
 He/Him
