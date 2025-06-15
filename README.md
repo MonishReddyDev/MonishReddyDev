@@ -33,7 +33,7 @@ Open Source Projects – Especially in backend tooling, DevOps automation, and i
 
 📫 How to Reach Me:
 
-📧 Email: monishreddy900@gmail.com
+📧 Email: monishreddy900@gmail.com | monishreddy9991@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/monish-reddy-bonthu/
 
