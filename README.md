@@ -2,7 +2,7 @@
 👋 Hi, I’m Monish Reddy (@MonishReddyDev)
 Welcome to My GitHub Profile! 👋
 
-I’m a Backend Developer with 4+ years of experience building robust, scalable systems using Node.js and Python. My expertise spans API development, microservices, cloud computing, and backend security. I’ve worked across fintech, telecom, and logistics domains, delivering production-ready services with a strong focus on performance and reliability.
+I’m a Backend Developer with 3+ years of experience building robust, scalable systems using Node.js and Python. My expertise spans API development, microservices, cloud computing, and backend security. I’ve worked across fintech, telecom, and logistics domains, delivering production-ready services with a strong focus on performance and reliability.
 
 
 🔍 Areas of Interest:
