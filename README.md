@@ -2,12 +2,13 @@
 👋 Hi, I’m Monish Reddy (@MonishReddyDev)
 Welcome to My GitHub Profile! 👋
 
-I’m a Backend Developer with 3+ years of experience building robust, scalable systems using Node.js and Python. My expertise spans API development, microservices, cloud computing, and backend security. I’ve worked across fintech, telecom, and logistics domains, delivering production-ready services with a strong focus on performance and reliability.
-
+I’m a Software Developer with 3+ years of experience, specializing in backend engineering with Node.js while also contributing to frontend development with React and TypeScript. I build scalable APIs, microservices, and cloud-native applications on AWS, delivering production-ready solutions with a strong focus on performance, reliability, and security.
 
 🔍 Areas of Interest:
 Backend Development
 Designing and optimizing RESTful APIs with Node.js (Express.js) and Python (Flask, Django), implementing event-driven systems, and ensuring performance under scale.
+
+Frontend Development: Building responsive, reusable UI components with React, TypeScript, and Tailwind CSS, ensuring smooth frontend-backend integration.
 
 Cloud & DevOps
 Deploying cloud-native applications using AWS services like Lambda, S3, RDS, DynamoDB, EventBridge, and ECS. Familiar with Docker and CI/CD pipelines for automated deployments.
@@ -18,14 +19,16 @@ Building microservices using Node.js, Flask, and Django, with integrations like 
 
 📚 Currently Learning & Enhancing:
 AWS Developer Associate Certification – Deepening serverless deployment and monitoring practices
-Advanced Backend Engineering – Expanding into caching (Redis, CDN), message queues (Kafka, RabbitMQ), and API versioning
-Python Service Optimization – Improving async performance and database interaction patterns
-Open Source Contributions – Actively engaging in backend + cloud projects and open collaboration
+Advanced backend scalability techniques (caching with Redis, API versioning, rate limiting).
+Full-stack project development, enhancing frontend skills to deliver end-to-end solutions.
+Improving serverless deployments and monitoring practices on AWS.
+Open-source contributions in backend tooling, DevOps automation, and cloud infrastructure APIs.
 
 
 🤝 Open to Collaborations On:
 API & Microservice Development – With Python or Node.js
 Cloud-native Backends – Serverless, containerized apps using AWS
+Full-Stack Projects combining robust backends with clean, responsive frontends
 Open Source Projects – Especially in backend tooling, DevOps automation, and infrastructure APIs
 
 
