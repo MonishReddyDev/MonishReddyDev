@@ -26,7 +26,7 @@ Open-source contributions in backend tooling, DevOps automation, and cloud infra
 
 
 🤝 Open to Collaborations On:
-API & Microservice Development – With Python or Node.js
+API & Microservice Development – With Node.js
 Cloud-native Backends – Serverless, containerized apps using AWS
 Full-Stack Projects combining robust backends with clean, responsive frontends
 Open Source Projects – Especially in backend tooling, DevOps automation, and infrastructure APIs
