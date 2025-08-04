@@ -6,7 +6,7 @@ I’m a Software Developer with 3+ years of experience, specializing in backend 
 
 🔍 Areas of Interest:
 Backend Development
-Designing and optimizing RESTful APIs with Node.js (Express.js) and Python (Flask, Django), implementing event-driven systems, and ensuring performance under scale.
+Designing and optimizing RESTful APIs with Node.js (Express.js , NestJs ), implementing event-driven systems, and ensuring performance under scale.
 
 Frontend Development: Building responsive, reusable UI components with React, TypeScript, and Tailwind CSS, ensuring smooth frontend-backend integration.
 
