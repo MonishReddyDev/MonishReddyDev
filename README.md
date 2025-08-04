@@ -14,7 +14,7 @@ Cloud & DevOps
 Deploying cloud-native applications using AWS services like Lambda, S3, RDS, DynamoDB, EventBridge, and ECS. Familiar with Docker and CI/CD pipelines for automated deployments.
 
 Distributed Systems & Microservices
-Building microservices using Node.js, Flask, and Django, with integrations like RabbitMQ, Redis, and asynchronous job queues for resilient architectures.
+Building microservices using Node.js,Express.js, NestJs with integrations like RabbitMQ, Redis, and asynchronous job queues for resilient architectures.
 
 
 📚 Currently Learning & Enhancing:
