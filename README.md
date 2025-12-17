@@ -38,7 +38,7 @@ Open Source Projects – Especially in backend tooling, DevOps automation, and i
 
 📧 Email: monishreddy900@gmail.com | monishreddy9991@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/monish-reddy-bonthu/
+💼 LinkedIn: https://www.linkedin.com/in/b-monishreddy/
 
 💼 portfolio: https://meek-klepon-b732a7.netlify.app/
 
