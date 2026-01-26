@@ -1,50 +1,49 @@
+### 👋 Hi, I’m Monish Reddy  
 
-👋 Hi, I’m Monish Reddy (@MonishReddyDev)
-Welcome to My GitHub Profile! 👋
+**Backend-focused Full Stack Developer** who enjoys building **fast, scalable, and reliable systems**.
 
-I’m a Software Developer with 4 years of experience, specializing in backend engineering with Node.js while also contributing to frontend development with React and TypeScript. I build scalable APIs, microservices, and cloud-native applications on AWS, delivering production-ready solutions with a strong focus on performance, reliability, and security.
+I have **4.5+ years of experience** working on **fintech platforms, digital payments, and real-time systems**, where performance, correctness, and uptime actually matter. I spend most of my time on the backend designing **low-latency APIs**, **event-driven microservices**, and **cloud-native services** but I’m comfortable stepping into the frontend when needed.
 
-🔍 Areas of Interest:
-Backend Development
-Designing and optimizing RESTful APIs with Node.js (Express.js , NestJs ), implementing event-driven systems, and ensuring performance under scale.
+I care deeply about **clean system design**, **production-grade code**, and building software that scales without surprises.
 
-Frontend Development: Building responsive, reusable UI components with React, TypeScript, and Tailwind CSS, ensuring smooth frontend-backend integration.
+---
 
-Cloud & DevOps
-Deploying cloud-native applications using AWS services like Lambda, S3, RDS, DynamoDB, EventBridge, and ECS. Familiar with Docker and CI/CD pipelines for automated deployments.
+🛠️ **What I work with**  
+**Backend:**  
+Node.js (Fastify, Express), Python, REST APIs, WebSockets
 
-Distributed Systems & Microservices
-Building microservices using Node.js,Express.js, NestJs with integrations like RabbitMQ, Redis, and asynchronous job queues for resilient architectures.
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, Redis (Caching, Pub/Sub, GEO)
 
+**Cloud & DevOps:**  
+AWS (EC2, Lambda, S3, API Gateway), Docker, CI/CD (GitHub Actions, Jenkins)
 
-📚 Currently Learning & Enhancing:
-AWS Developer Associate Certification – Deepening serverless deployment and monitoring practices
-Advanced backend scalability techniques (caching with Redis, API versioning, rate limiting).
-Full-stack project development, enhancing frontend skills to deliver end-to-end solutions.
-Improving serverless deployments and monitoring practices on AWS.
-Open-source contributions in backend tooling, DevOps automation, and cloud infrastructure APIs.
+**Architecture:**  
+Microservices, Distributed Systems, Caching, Load Balancing
 
+**Security:**  
+JWT, OAuth2, RBAC, rate limiting, audit logging 
 
-🤝 Open to Collaborations On:
-API & Microservice Development – With Node.js
-Cloud-native Backends – Serverless, containerized apps using AWS
-Full-Stack Projects combining robust backends with clean, responsive frontends
-Open Source Projects – Especially in backend tooling, DevOps automation, and infrastructure APIs
+**Frontend :**  
+React, TailwindCSS, Material-Ui , real-time dashboards, data visualization
 
+---
 
-🚀 Always eager to learn, collaborate, and create efficient backend solutions!
+🚀 **What I enjoy**
+- Designing systems that **scale predictably**
+- Turning complex requirements into **simple, resilient architectures**
+- Performance tuning, caching strategies, and observability
+- Writing code that survives **real production traffic**
 
-📫 How to Reach Me:
+---
 
-📧 Email: monishreddy900@gmail.com | monishreddy9991@gmail.com
+📌 **Currently**
+- Building **real-time platforms**, **payment systems**, and **cloud-native backend services**
+- Integrating **AI-powered features** into backend workflows for automation and smarter data processing
+- Continuously leveling up **system design** and **distributed systems** skills
 
-💼 LinkedIn: https://www.linkedin.com/in/b-monishreddy/
+---
 
-💼 portfolio: https://meek-klepon-b732a7.netlify.app/
-
-😄 Pronouns:
-He/Him
-
-⚡ Fun Fact:
-I believe coding is like solving a puzzle—every bug fixed is a little victory worth celebrating! 🧩
-
+📫 **Let’s connect**  
+📧 monishreddy9991@gmail.com  
+💼 https://www.linkedin.com/in/b-monishreddy/
