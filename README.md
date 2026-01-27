@@ -45,5 +45,5 @@ React, TailwindCSS, Material-Ui , real-time dashboards, data visualization
 ---
 
 📫 **Let’s connect**  
-📧 monishreddy9991@gmail.com  
+📧 monishreddy15124@gmail.com 
 💼 https://www.linkedin.com/in/b-monishreddy/
