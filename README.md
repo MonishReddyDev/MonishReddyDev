@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-4.5%2B%20Years-58A6FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Node.js-Expert-3C873A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square"/>
   <img src="https://img.shields.io/badge/System%20Design-Production%20Grade-6E40C9?style=flat-square"/>
 </p>
-
 ---
 
 ## 🧠 About Me
@@ -24,8 +24,9 @@ I spend most of my time on the backend designing:
 - ⚡ **Low-latency APIs**
 - 🔁 **Event-driven microservices**
 - ☁️ **Cloud-native services**
+- 🤖 **AI-powered backend workflows (LLMs & intelligent agents)**
 
-While backend is my strength, I’m comfortable stepping into the frontend when needed.
+Alongside Node.js, I actively build with **Python & FastAPI**, especially for **high-performance APIs** and **AI-driven services**.
 
 I care deeply about **clean system design**, **production-grade code**, and building software that **scales without surprises**.
 
@@ -38,7 +39,16 @@ I care deeply about **clean system design**, **production-grade code**, and buil
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-6E40C9?style=flat-square)
+
+---
+
+### 🤖 AI & Intelligent Systems
+- LLM-powered applications (OpenAI, prompt engineering, RAG basics)
+- AI Agents & workflow automation
+- Semantic search & embeddings
+- AI integration in backend systems (APIs, async processing)
 
 ---
 
@@ -60,9 +70,11 @@ I care deeply about **clean system design**, **production-grade code**, and buil
 
 ### 🏗️ Architecture & Security
 - Microservices & Distributed Systems  
+- Event-driven architecture (queues, pub/sub)  
 - Caching & Load Balancing  
 - JWT, OAuth2, RBAC  
-- Rate limiting & audit logging  
+- Rate limiting, observability & audit logging  
+- AI system integration (LLM pipelines, agent orchestration)
 
 ---
 
@@ -77,6 +89,7 @@ Real-time dashboards • Data visualization • API-driven UI
 
 ## 🚀 What I Enjoy
 - Designing systems that **scale predictably**
+- Building **AI-integrated backend systems**
 - Turning complex requirements into **simple, resilient architectures**
 - Performance tuning, caching strategies & observability
 - Writing code that survives **real production traffic**
@@ -85,8 +98,9 @@ Real-time dashboards • Data visualization • API-driven UI
 
 ## 📌 Currently
 - Building **real-time platforms**, **payment systems**, and **cloud-native backend services**
-- Integrating **AI-powered features** into backend workflows
-- Leveling up **system design & distributed systems** expertise
+- Developing **AI-powered backend features using LLMs & agents**
+- Working with **FastAPI + Python for high-performance services**
+- Leveling up **system design & distributed systems**
 
 ---
 
@@ -100,3 +114,8 @@ Real-time dashboards • Data visualization • API-driven UI
     <img src="https://img.shields.io/badge/LinkedIn-Monish%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🔥 Tagline
+**Backend Engineer | Node.js • Python (FastAPI) • Distributed Systems • AI/LLM Integration**
