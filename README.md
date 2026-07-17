@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#58A6FF;">Monish Reddy</span></h1>
 
 <p align="center">
-  <strong>Backend-focused Full Stack Developer</strong> <br/>
+  <strong>Full Stack Developer</strong> <br/>
   Building <b>fast</b>, <b>scalable</b>, and <b>reliable</b> systems 🚀
 </p>
 
