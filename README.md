@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square"/>
   <img src="https://img.shields.io/badge/System%20Design-Production%20Grade-6E40C9?style=flat-square"/>
 </p>
----
 
 ## 🧠 About Me
 
